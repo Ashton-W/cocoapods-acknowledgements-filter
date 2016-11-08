@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/cocoapods-acknowledgements-filter.svg)](https://badge.fury.io/rb/cocoapods-acknowledgements-filter)
 # Cocoapods Acknowledgements Filter
 
 A CocoaPods plugin that filters the pods listed in Acknowledgements
